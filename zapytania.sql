@@ -1,3 +1,4 @@
+
 1. To zapytanie pokaże nam, po jakich przystankach i w jakich godzinach przejeżdża dana linia po przystankach, jak i kolejność tych przystanków.}
 
     SELECT * FROM RozkladJazdy WHERE LiniaID = 1 order by KolejnoscNaTrasie

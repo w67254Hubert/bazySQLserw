@@ -1,6 +1,5 @@
 
 
-
 --dodawanie rekordów do rab Rodzaje biletów
 
 insert into Rodzajebiletu values

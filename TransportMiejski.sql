@@ -1,3 +1,4 @@
+
 CREATE DATABASE TransportMiejski_w67254t
 GO
 USE TransportMiejski_w67254t
