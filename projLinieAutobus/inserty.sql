@@ -28,6 +28,7 @@ insert into cennik values
 (5,'ustawowy',15.00),
 (5,'ulgowy',13.50)
 
+
 --dodawanie rekordów do tab biletomaty
 
 insert into biletomaty values
